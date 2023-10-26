@@ -1,0 +1,15 @@
+{
+  "id": "user-props",
+  "name": "user-props",
+  "version": "0.0.1",
+  "beta": true,
+  "personalPlugin": true,
+  "description": "user-props",
+  "longDescription": "user-props",
+  "configuration": "user-props",
+  "category": "Social Sharing",
+  "businessId": "3UewHF0ge9",
+  "price": 0,
+  "releaseNotes": "na",
+  "entrypoint": ""
+}
